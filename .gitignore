@@ -2,7 +2,6 @@
 /local.properties
 /.idea
 /build
-.DS_Store
 *.iml
 *.pro
 *.class
