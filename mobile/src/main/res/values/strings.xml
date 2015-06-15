@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="label_application">HQ Lighttts</string>
+
+    <string name="appwidget_light_refresh_content_description">Refresh</string>
+    <string name="appwidget_timestamp">Last updated at %1$s</string>
+    <string name="appwidget_light_failure">Failed to fetch status</string>
+
+</resources>

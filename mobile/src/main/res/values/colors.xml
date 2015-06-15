@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="ifttt_blue">#42C8F4</color>
+    <color name="ifttt_orange">#FF4400</color>
+
+    <color name="color_accent">@color/ifttt_orange</color>
+
+    <color name="appwidget_light_background">#DD42C8F4</color>
+    <color name="appwidget_light_background_pressed">#AAFF4400</color>
+    <color name="appwidget_light_background_ripple">#CCFF4400</color>
+    <color name="appwidget_light_item_name_text">#FFFFFF</color>
+    <color name="appwidget_light_timestamp_text">#FFFFFF</color>
+    <color name="appwidget_light_failure_background">#2255FF</color>
+    <color name="appwidget_light_failure_background_pressed">
+        @color/appwidget_light_background_pressed</color>
+    <color name="appwidget_light_failure_background_ripple">
+        @color/appwidget_light_background_ripple</color>
+    <color name="appwidget_light_failure_text">#FFFFFF</color>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content"
+    android:background="@drawable/appwidget_light_background"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/appwidget_light_padding_horizontal"
+    android:paddingRight="@dimen/appwidget_light_padding_horizontal"
+    android:gravity="center" />
