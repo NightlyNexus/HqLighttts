@@ -37,7 +37,6 @@ public class HqLightttsApp extends Application {
     @NonNull private static final Interceptor NETWORK_INTERCEPTOR;
 
     static {
-        android.util.Log.d("eric", "eric " + REQUEST_HEADER_USER_AGENT);
         GSON = new GsonBuilder()
                 .registerTypeAdapter(BuildingStatus.class,
                         new BuildingStatusNetworkUtils.BuildingStatusTypeAdapter())
