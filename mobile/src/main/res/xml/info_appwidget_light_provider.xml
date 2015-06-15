@@ -11,4 +11,4 @@
     android:resizeMode="horizontal|vertical"
     android:widgetCategory="home_screen|keyguard"
     android:initialKeyguardLayout="@layout/appwidget_light"
-    android:previewImage="@mipmap/ic_launcher" />
+    android:previewImage="@drawable/ic_appwidget_light_preview" />
