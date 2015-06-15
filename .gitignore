@@ -6,7 +6,5 @@
 /captures
 *.iml
 *.pro
-/gradle
-gradle.properties
-gradlew
-gradlew.bat
+*.class
+*.jar
